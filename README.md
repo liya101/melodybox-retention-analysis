@@ -2,7 +2,7 @@
  Analysis of declining new-user retention in a subscription music service."
 
 
-> **TL;DR** — Retention dropped from ~77% to ~52% in February 2024. The cause wasn't a worse product — existing plans retained at the same rate as before. The drop was entirely a composition shift: a new $0.99 / 7-day trial plan, primarily acquired through paid social, retains at just 10%. Critically, this 10% is uniform across channels, engagement, and auto-renew settings — meaning the trial offer itself is selecting for users who won't convert. Recommendation: question the trial's economics before optimising it.
+> **TL;DR** : Retention dropped from ~77% to ~52% in February 2024. The cause wasn't a worse product- existing plans were retained at the same rate as before. The drop was entirely a composition shift: a new $0.99 / 7-day trial plan, primarily acquired through paid social, retains at just 10%. Critically, this 10% is uniform across channels, engagement, and auto-renew settings — meaning the trial offer itself is selecting for users who won't convert. Recommendation: Question the trial's economics before optimising it.
 
 📄 **Full case study writeup:** [(https://www.notion.so/MelodyBox-Subscription-Retention-Analysis-350658b8997e81bf9e58e8a165bd6829?source=copy_link)]
 
