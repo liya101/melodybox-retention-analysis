@@ -37,15 +37,15 @@ Cohort decomposition. Find the trend, validate it's real, then progressively seg
 - **Existing plans (monthly_standard, monthly_premium) stayed flat at ~77% throughout 2024.** The product didn't get worse.
 - A new **trial_7day plan** launched February 2024 and retains at just **10.4%** roughly one-seventh the rate of paid plans.
 - **70% of trial signups came through paid_social**, which roughly doubled in volume share at the same time.
-- Trial retention is **uniform across channels (~9-13%), engagement levels (~7-12%), and auto-renew settings (10-13%)** — none of the typical optimisation levers move it.
+- Trial retention is **uniform across channels (~9-13%), engagement levels (~7-12%), and auto-renew settings (10-13%)** -none of the typical optimisation levers move it.
 
 ---
 
 ## Recommendations
 
 1. **Question the trial's unit economics** before optimising anything else. If trial CPA exceeds 10.4% × monthly_standard LTV, the trial is unprofitable.
-2. If keeping the trial, **restructure the offer** (auto-renew default, longer window, or first-month discount) — not the experience. Engagement isn't the lever.
-3. **Reframe what the trial is for.** It's currently judged on retention and failing — but may be quietly succeeding on volume / CPA / brand awareness. Pick the right metric.
+2. If keeping the trial, **restructure the offer** (auto-renew default, longer window, or first-month discount)  not the experience. Engagement isn't the lever.
+3. **Reframe what the trial is for.** It's currently judged on retention and failing but may be quietly succeeding on volume / CPA / brand awareness. Pick the right metric.
 
 See full case study:  https://www.notion.so/MelodyBox-Subscription-Retention-Analysis-350658b8997e81bf9e58e8a165bd6829?source=copy_link
 
@@ -71,9 +71,8 @@ Python (pandas, matplotlib) · Jupyter
 
 ## A note on the data
 
-This is a **synthetic dataset** I generated to mirror realistic subscription patterns. It is not real Wise / MelodyBox data, and the company name "MelodyBox" is fictional. The analytical patterns and pitfalls are designed to reflect what a real product analyst would encounter.
+This is a **synthetic dataset** I generated to mirror realistic subscription patterns. It is not real data, and the company name "MelodyBox" is fictional. The analytical patterns and pitfalls are designed to reflect what a real product analyst would encounter.
 
-The data generator script is included in `scripts/generate_synthetic_data.py` for transparency.
 
 ---
 
