@@ -1,9 +1,6 @@
 # melodybox-retention-analysis
  Analysis of declining new-user retention in a subscription music service."
 
- # MelodyBox — Subscription Retention Analysis
-
-A diagnostic case study analysing why new-user retention dropped at a (synthetic) subscription music service, and what the product team should do about it.
 
 > **TL;DR** — Retention dropped from ~77% to ~52% in February 2024. The cause wasn't a worse product — existing plans retained at the same rate as before. The drop was entirely a composition shift: a new $0.99 / 7-day trial plan, primarily acquired through paid social, retains at just 10%. Critically, this 10% is uniform across channels, engagement, and auto-renew settings — meaning the trial offer itself is selecting for users who won't convert. Recommendation: question the trial's economics before optimising it.
 
